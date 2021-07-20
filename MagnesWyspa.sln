@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagnesWyspa", "MagnesWyspa.csproj", "{DC640EBB-D0F8-4226-ACD2-2373CF29E178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC640EBB-D0F8-4226-ACD2-2373CF29E178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC640EBB-D0F8-4226-ACD2-2373CF29E178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC640EBB-D0F8-4226-ACD2-2373CF29E178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC640EBB-D0F8-4226-ACD2-2373CF29E178}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B91B5A24-AAE2-4C37-A245-F6FE82F2A8BA}
+	EndGlobalSection
+EndGlobal
