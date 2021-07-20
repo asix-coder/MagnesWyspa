@@ -20,7 +20,6 @@ namespace MagnesWyspa
         private void button1_Click(object sender, EventArgs e)
         {
             String result = "";
-            int y = 0;
            
             String[] islands = new String[4];
             islands[0] = "Bermudy";
@@ -34,6 +33,7 @@ namespace MagnesWyspa
             index[2] = 0;
             index[3] = 2;
 
+            int y = 0;
             int refNum;
             while (y < 4)
             {
